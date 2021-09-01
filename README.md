@@ -1,4 +1,4 @@
-# Rob Konigsberg's-Lab-Hub
+# Rob Konigsberg's-Lab-Hub :+1::right_anger_bubble:
 for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/)
 
 Please place links here to the README.md's for each of your labs here:
