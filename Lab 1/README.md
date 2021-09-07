@@ -117,7 +117,7 @@ Different feedback from ourselves and other peers include:
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-hhttps://youtu.be/RV3dAaPuWmE
+https://youtu.be/RV3dAaPuWmE
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
