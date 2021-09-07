@@ -41,21 +41,24 @@ F) [Record the interaction](#part-f-record)
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
-
-
 > Setting: This interaction happens in a user's home, or anywhere else where they plan on sleeping that evening. 
-> Players: This device is designed for a single user, in this case the individual attempting to manage their sleep cycle with an "inverse alarm clock." For this lab, we will keep the scope small as we develop a MVP, so the user is the sole player in the interaction. However, in future iterations, this can be used for a couple, family with children, or a household with multiple individuals trying to sleep.  
-> Activity: The user begins by setting a bedtime. The "inverse alarm clock" then begins a "sleep cycle" ~2 hours beforehand. This includes dimming of household lights, electronics, and even window shades (in a more advanced version). Rather than an individual going from 100% awake to 100% asleep (or try to), this uses lighting to gradually set a mood, inherently telling the body that bedtime is close. 
-> Goals: The goal of each user, simply put, is to fall asleep. Sleep is very misunderstood, but we do know that in the modern world the use of lights and electronics have made people go to bed later and later, which is unhealthy. However, we do know that dimming lights and other sensory
 
+> Players: This device is designed for a single user, in this case the individual attempting to manage their sleep cycle with an "inverse alarm clock." For this lab, we will keep the scope small as we develop a MVP, so the user is the sole player in the interaction. However, in future iterations, this can be used for a couple, family with children, or a household with multiple individuals trying to sleep.  
+
+> Activity: The user begins by setting a bedtime. The "inverse alarm clock" then begins a "sleep cycle" ~2 hours beforehand. This includes dimming of household lights, electronics, and even window shades (in a more advanced version). Rather than an individual going from 100% awake to 100% asleep (or try to), this uses lighting to gradually set a mood, inherently telling the body that bedtime is close. 
+
+> Goals: The goal of each user, simply put, is to fall asleep. Sleep is very misunderstood, but we do know that in the modern world the use of lights and electronics have made people go to bed later and later, which is unhealthy. However, dimming lights can be a successful strategy to reduce the “idle time” of waiting in bed trying to fall asleep. 
 
 
 \*\***Include a picture of your storyboard here**\*\*
 
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
+Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+
+
 
 \*\***Summarize feedback you got here.**\*\*
+
+Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 
 ## Part B. Act out the Interaction
