@@ -88,7 +88,6 @@ Different feedback from ourselves and other peers include:
 
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
@@ -99,17 +98,13 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
-
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
-
 \*\***Include sketches of what your device might look like here.**\*\*
 
 >For sketches, refer back to the storyboard. This captures the overall shape and brightness of the lamp. 
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
->The device will look like the flexible standing lamps in the house apartments, however it will move automatically lower as the time approaches the preset bedtime the user has set. Starting up high and bright and lowering getting dimmer and dimmer until the light shuts off. 
+>The device will look like the flexible standing lamps in the house apartments, however it will move automatically lower as the time approaches the preset bedtime the user has set. Starting up high and bright and lowering getting dimmer and dimmer until the light shuts off. Design for the product should be similar (hardware/looks wise) to a lamp, in terms of not exposing it to water, using electricity, placement in a room, etc.
 
 >For the purpose of prototyping we created a fake knob allowing the user to set their bedtime made from a bottle cap and paper. 
 
@@ -119,10 +114,11 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Take a video of your prototyped interaction.**\*\*
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+
 Our team is the following: 
 - Robert Konigsberg (rak275)
-- Bella Baidak ()
-- Jose Patricio Reyes Lorenzo ()
+- Bella Baidak (bb568)
+- Jose Patricio Reyes Lorenzo (jr895)
 
 # Staging Interaction, Part 2 
 
