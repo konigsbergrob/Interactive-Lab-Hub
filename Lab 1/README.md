@@ -112,9 +112,8 @@ Now, hange the goal within the same setting, and update the interaction with the
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
-<video width="320" height="240" controls>
-  <source src="./Video.mp4">
-</video>
+
+https://www.youtube.com/watch?v=XHECZDy_ctg
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
