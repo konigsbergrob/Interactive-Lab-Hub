@@ -1,4 +1,4 @@
-
+<img src="/test.jpg">
 
 # Staging Interaction Lab
 
