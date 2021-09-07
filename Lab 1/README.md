@@ -49,7 +49,7 @@ F) [Record the interaction](#part-f-record)
 
 \*\***Include a picture of your storyboard here**\*\*
 
-<img src="./storyboard.jpg">
+<img src="./Storyboard.JPG">
 
 
 \*\***Summarize feedback you got here.**\*\*
