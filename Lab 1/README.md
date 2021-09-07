@@ -23,7 +23,6 @@
 This README.md page in your own repository should be edited to include the work you have done (the deliverables mentioned above). 
 
 ## Lab Overview
-For this assignment, you are going to:
 
 A) [Plan](#part-a-plan) 
 
@@ -51,9 +50,6 @@ F) [Record the interaction](#part-f-record)
 
 
 \*\***Include a picture of your storyboard here**\*\*
-
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
-
 
 
 \*\***Summarize feedback you got here.**\*\*
