@@ -68,24 +68,23 @@ Different feedback from ourselves and other peers include:
 
 ## Part B. Act out the Interaction
 
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
-
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
+> The effect of the lights did not seem as prominent when acted out. This could be due to the lamp and its lack of actually changing brightness. 
+
+> The lights we used for acting out are in the user’s bedroom. However, in a home with more than a single room, there may need to be multiple lights installed. 
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+> One idea could be integration with other devices. So for example, the lights in the apartment may dim, but at the same time the user’s computer, phone or television could also dim. 
+
+> Another idea could be to have more than just light - sound could be helpful both as an input and an output. As an input, the user could ask the device to extend their bedtime (or initially set it) by just speaking out loud. Alternatively, sound could be used in parallel with the light, such as the device saying “you have 1 hour before your scheduled bedtime.” 
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
-
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
+> In the house apartments there are flexible standing lamps, we are using this as the prototype. However we will manually move the lamp to present our idea and give the light dimming effect. 
 
 
 ## Part D. Wizard the device
@@ -106,7 +105,13 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
+>For sketches, refer back to the storyboard. This captures the overall shape and brightness of the lamp. 
+
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
+>The device will look like the flexible standing lamps in the house apartments, however it will move automatically lower as the time approaches the preset bedtime the user has set. Starting up high and bright and lowering getting dimmer and dimmer until the light shuts off. 
+
+>For the purpose of prototyping we created a fake knob allowing the user to set their bedtime made from a bottle cap and paper. 
 
 
 ## Part F. Record
@@ -114,9 +119,10 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Take a video of your prototyped interaction.**\*\*
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
-
+Our team is the following: 
+- Robert Konigsberg (rak275)
+- Bella Baidak ()
+- Jose Patricio Reyes Lorenzo ()
 
 # Staging Interaction, Part 2 
 
