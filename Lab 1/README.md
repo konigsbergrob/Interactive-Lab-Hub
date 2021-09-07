@@ -56,7 +56,14 @@ F) [Record the interaction](#part-f-record)
 
 \*\***Summarize feedback you got here.**\*\*
 
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
+Different feedback from ourselves and other peers include: 
+
+> Cell phone light can keep a user awake just as much as room lighting can
+
+> Sometimes a user does not plan a bed time, they just go to bed when they are tired
+
+> If a user goes into multiple rooms, the lights (devices) across the whole house should be set up accordingly
+
 
 
 ## Part B. Act out the Interaction
