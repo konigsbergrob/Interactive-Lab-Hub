@@ -46,7 +46,7 @@ F) [Record the interaction](#part-f-record)
 
 > Goals: The goal of each user, simply put, is to fall asleep. Sleep is very misunderstood, but we do know that in the modern world the use of lights and electronics have made people go to bed later and later, which is unhealthy. However, dimming lights can be a successful strategy to reduce the “idle time” of waiting in bed trying to fall asleep. 
 
-
+> Inspiration: Our lamp idea was inspired by sunflowers, their overall shape and movement based on light present. 
 <img src="./Sunflower.JPG">
 
 \*\***Include a picture of your storyboard here**\*\*
