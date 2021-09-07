@@ -1,5 +1,3 @@
-<img src="./test.jpg">
-
 # Staging Interaction Lab
 
 ## Prep
@@ -50,6 +48,8 @@ F) [Record the interaction](#part-f-record)
 
 
 \*\***Include a picture of your storyboard here**\*\*
+
+<img src="./storyboard.jpg">
 
 
 \*\***Summarize feedback you got here.**\*\*
