@@ -113,7 +113,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-https://www.youtube.com/watch?v=XHECZDy_ctg
+hhttps://youtu.be/RV3dAaPuWmE
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
