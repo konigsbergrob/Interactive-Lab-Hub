@@ -113,7 +113,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Take a video of your prototyped interaction.**\*\*
 <video width="320" height="240" controls>
-  <source src="./video.mp4">
+  <source src="./Video.mp4">
 </video>
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
