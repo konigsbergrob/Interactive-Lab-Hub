@@ -39,7 +39,7 @@ F) [Record the interaction](#part-f-record)
 
 ## Part A. Plan 
 
-\*\***Overview of setting, players, activity and goals.**\*\*
+\*\***Describe your setting, players, activity and goals here.**\*\*
 
 > Setting: This interaction happens in a user's home, or anywhere else where they plan on sleeping that evening. 
 
@@ -50,13 +50,13 @@ F) [Record the interaction](#part-f-record)
 > Goals: The goal of each user, simply put, is to fall asleep. Sleep is very misunderstood, but we do know that in the modern world the use of lights and electronics have made people go to bed later and later, which is unhealthy. However, dimming lights can be a successful strategy to reduce the “idle time” of waiting in bed trying to fall asleep. 
 
 
-\*\***Storyboard**\*\*
+\*\***Include a picture of your storyboard here**\*\*
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 
 
-\*\***Feedback summary**\*\*
+\*\***Summarize feedback you got here.**\*\*
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
