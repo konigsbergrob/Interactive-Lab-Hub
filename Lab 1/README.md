@@ -93,12 +93,15 @@ Different feedback from ourselves and other peers include:
 
 <img src="./1_Wizard.JPG">
 <img src="./2_Wizard.JPG">
-<img src="./3_Wizard.JPG">
+<img src="./4_Wizard.JPG">
+<img src="./5_Wizard.JPG">
+
 
 \*\***Show the follow-up work here.**\*\*
 
-<img src="./4_Wizard.JPG">
-<img src="./5_Wizard.JPG">
+<img src="./6_Wizard.JPG">
+<img src="./7_Wizard.JPG">
+
 
 ## Part E. Costume the device
 
