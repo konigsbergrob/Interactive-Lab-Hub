@@ -4,11 +4,6 @@
 
 ## Prep
 
-### To start the semester, you will need:
-1. Set up your own Github "Lab Hub" repository to keep all you work in record by [following these instructions](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md).
-2. Set up the README.md for your Hub repository and organize and post links to your submissions on your README.md so we can find them easily.
-
-
 ### For this lab, you will need:
 1. Paper
 2. Markers/ Pens
