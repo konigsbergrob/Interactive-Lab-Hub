@@ -91,14 +91,14 @@ Different feedback from ourselves and other peers include:
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-<img src="./Wizard 1.JPG">
-<img src="./Wizard 2.JPG">
-<img src="./Wizard 3.JPG">
+<img src="./1_Wizard.JPG">
+<img src="./2_Wizard.JPG">
+<img src="./3_Wizard.JPG">
 
 \*\***Show the follow-up work here.**\*\*
 
-<img src="./Wizard 4.JPG">
-<img src="./Wizard 5.JPG">
+<img src="./4_Wizard.JPG">
+<img src="./5_Wizard.JPG">
 
 ## Part E. Costume the device
 
