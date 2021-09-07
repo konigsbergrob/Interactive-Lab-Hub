@@ -99,8 +99,8 @@ Different feedback from ourselves and other peers include:
 
 \*\***Show the follow-up work here.**\*\*
 
-<img src="./6_Wizard.JPG">
-<img src="./7_Wizard.JPG">
+<img src="./Wizard_1.GIF">
+<img src="./Wizard_2.GIF">
 
 
 ## Part E. Costume the device
