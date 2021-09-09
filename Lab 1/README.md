@@ -140,11 +140,20 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+>The idea is really cool! The sunflower lamp, similar but internally different from the project shown by Wendy through a video in lecture today. I think the original goal of this lab is a little different from the lamp, it was about lighting, but this is also a cool idea that involves other measure of interaction!!! One thing I think you can improve this is that human schedules are much more complex than just needing less and less light during night. It works for those who have a very strict schedules, but rarely does people have that.
+>As someone who tends to stay up because I don't realize how late it is, I definitely appreciate this device. I like the physicality of the whole lamp lowering as the night goes on and the sunflower inspiration. I also like the idea of expanding the functionality to other lights and devices throughout the home. I'd like to know how the lamp determines when to stand back up again. Considering that people may have different bedtimes, it may be helpful to have the device sync with the person's calendar. One concern I might have is the safety of having the lamp head so close to the ground in the dark. If the user gets up in the middle of the night and needs to see, they might trip over the lamp or struggle to see if they turn on the lamp.
+
+>Human schedules are more complex than just needing less and less light
+>There is not much change to the light itself, but rather the movement of the lamp instead
+>Unclear when the lamp stands back up again
+>
+
 >I think the original goal of this lab is a little different from the lamp, it was about lighting, but this is also a cool idea that involves other measure of interaction!!!
 >One thing I think you can improve this is that human schedules are much more complex than just needing less and less light during night. It works for those who have a very strict schedules, but rarely does people have that.
 >I like the physicality of the whole lamp lowering as the night goes on and the sunflower inspiration.
 >What happens if you get up in the middle of the night 
 >What happens about other lights in the house
+>Make the idea / movement of the lamp clearer 
 
 >Additional features to add: 
 >Screen that displays a clock and a "countdown timer" until bedtime; 
@@ -153,6 +162,8 @@ You will be assigned three partners from another group. Go to their github pages
 >Allow the user to change colors if he/she wants (colors align to times before bedtime or after wakeup)  
 >Add sound which announces how much time is left until bedtime/wakeup - can say "5, 10, 15 minutes until bedtime/wakeup"  
 >Button to change / prolong bedtime 
+>Blinking light upon wake-up 
+>Pointed at ground is a good thing in middle of night, not bad because it keeps you from waking up 
  
 
 
