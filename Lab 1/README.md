@@ -140,6 +140,23 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+>I think the original goal of this lab is a little different from the lamp, it was about lighting, but this is also a cool idea that involves other measure of interaction!!!
+>One thing I think you can improve this is that human schedules are much more complex than just needing less and less light during night. It works for those who have a very strict schedules, but rarely does people have that.
+>I like the physicality of the whole lamp lowering as the night goes on and the sunflower inspiration.
+>What happens if you get up in the middle of the night 
+>What happens about other lights in the house
+
+>Additional features to add: 
+>Screen that displays a clock and a "countdown timer" until bedtime; 
+>Bedtime and wake up time set
+>"Morning wake up" features: "sunflower" clock straightens up overnight / in the morning, set alarm button
+>Allow the user to change colors if he/she wants (colors align to times before bedtime or after wakeup)  
+>Add sound which announces how much time is left until bedtime/wakeup - can say "5, 10, 15 minutes until bedtime/wakeup"  
+>Button to change / prolong bedtime 
+ 
+
+
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
@@ -148,3 +165,7 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+### Updated X
+
+### Updated Y
