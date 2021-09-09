@@ -166,6 +166,10 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
-### Updated X
+### Updated Storyboard
 
-### Updated Y
+### Updated Device
+
+### Updated Video
+
+
