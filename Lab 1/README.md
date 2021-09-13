@@ -140,33 +140,21 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
->The idea is really cool! The sunflower lamp, similar but internally different from the project shown by Wendy through a video in lecture today. I think the original goal of this lab is a little different from the lamp, it was about lighting, but this is also a cool idea that involves other measure of interaction!!! One thing I think you can improve this is that human schedules are much more complex than just needing less and less light during night. It works for those who have a very strict schedules, but rarely does people have that.
->As someone who tends to stay up because I don't realize how late it is, I definitely appreciate this device. I like the physicality of the whole lamp lowering as the night goes on and the sunflower inspiration. I also like the idea of expanding the functionality to other lights and devices throughout the home. I'd like to know how the lamp determines when to stand back up again. Considering that people may have different bedtimes, it may be helpful to have the device sync with the person's calendar. One concern I might have is the safety of having the lamp head so close to the ground in the dark. If the user gets up in the middle of the night and needs to see, they might trip over the lamp or struggle to see if they turn on the lamp.
+The feedback received for this device can be summarized by the following: 
 
->Human schedules are more complex than just needing less and less light
->There is not much change to the light itself, but rather the movement of the lamp instead
->Unclear when the lamp stands back up again
->
+Positive feedback
+> The physicality of the light lowering, as the night goes down, is a cool feature. 
+> As someone who tends to stay up because I don't realize how late it is, I definitely appreciate this device!
+> Not only does this device change the light environment around users, but reminds people to sleep in an immersive way
 
->I think the original goal of this lab is a little different from the lamp, it was about lighting, but this is also a cool idea that involves other measure of interaction!!!
->One thing I think you can improve this is that human schedules are much more complex than just needing less and less light during night. It works for those who have a very strict schedules, but rarely does people have that.
->I like the physicality of the whole lamp lowering as the night goes on and the sunflower inspiration.
->What happens if you get up in the middle of the night 
->What happens about other lights in the house
->Make the idea / movement of the lamp clearer 
-
->Additional features to add: 
->Screen that displays a clock and a "countdown timer" until bedtime; 
->Bedtime and wake up time set
->"Morning wake up" features: "sunflower" clock straightens up overnight / in the morning, set alarm button
->Allow the user to change colors if he/she wants (colors align to times before bedtime or after wakeup)  
->Add sound which announces how much time is left until bedtime/wakeup - can say "5, 10, 15 minutes until bedtime/wakeup"  
->Button to change / prolong bedtime 
->Blinking light upon wake-up 
->Pointed at ground is a good thing in middle of night, not bad because it keeps you from waking up 
- 
-
-
+Food for thought / Suggestions for change
+> Human schedules are complex, and simply reducing light may not work for those without a strict schedule. 
+> Bedtimes are variable, and so syncing with someone's calendar may be valuable.
+> There is a lack of clarity of when the lamp raises up after lowering at the end of the night.
+> With a lamp so close to the ground, users may trip over it if they awake in the middle of the night.
+> Is there any integration with the other lights in the house? What happens to those? 
+> Changing colors / reducing blue light specifically could be a good way to induce sleep.
+> Is there a snooze button? What is I struggle to wake-up. 
 
 ## Make it your own
 
@@ -177,10 +165,33 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
+Given the feedback received, the following changes will be implemented: 
+1. The device will work not just in the evenings to help users fall asleep, but also in the morning to help users wake up. This creates a "whole cycle" and addresses the concerns about when the lamp will raise after the user goes to sleep. 
+2. We will introduce an app that allows users to set the bedtime and wake up time. Some of the key features include: 
+    > Bedtime and wake-up can be dynamically set, even within a single cycle (e.g., it is 9:00pm, a user planned to go to bed at 10:00pm, but now will need to go to bed at 11:00pm. The user can go into the app and prolong bedtime an hour, and the device will adjust accordingly). 
+    > This will help with the complexity of a user's schedule on a day to day basis. 
+    > Calendar integration will be possible (e.g., sync with Outlook calendar) as well. 
+    > For the wake-up functionality, there will be a built in "snooze" feature. Rather than a user clicking snooze in the morning, this will be proactive. So for example, a user will input 7:00 am as a wake-up time, but begin the wake-up process at 6:45am and have a "final wake-up allowed" at 7:15am. This is defined as the time interval. 
+    > If the user has any other "smart lightbulbs" in the house, this device can sync with those. Although they may not have a dimming feature, the app can turn off each of the additional lights across the dimming cycle (and the user can program this sequence). So for example, if a user is going to bed in 4 hours, 3 hours beforehand the kitchen light can turn off, 2 hours beforehand the dining room light can shut off, and so on. Given the sophistication, it is not reflected in the diagrams below, but we do plan this for future iterations potentially. 
+3. The light used in the lamp will have the functionality to include or exclude blue light. Therefore, at night time, blue light can be removed (something that has been showed to keep people awake at night). 
+4. The light can allow a user to change the hue (e.g., more of a yellow / warm light versus a white / brighter light). 
+5. A speaker will be built into the lamp, so that intervals can be announced (rather than the light dimming, for example). So the device will audibly project "30 minutes until bedtime," in case the user does not consciously perceive the brightness decrease. 
+6. The light will have a feature to blink, specifically for waking up. Therefore, if the sound does not wake a user, the blinking light will help do so. 
+
+
 ### Updated Storyboard
+
+We've created a new "storyboard" that shows the wake-up functionality of the device, along with its new sound feature. 
+
+As you can see elow, as bedtime neard the light lowers physically, gets less bright, and informs the user of time until bedtime (with lower volume levels). 
 
 ### Updated Device
 
+The new device can be found below. Also included is the sketch of the app we intend users to utilize for the scheduling of their bedtime and wake-up. The diagram of the device shows the ability to change hues for the light, the sound functionality included, and the lack of physical controls now on the device. The app shows that the user can set a bedtime and wake-up time, a time interval (how long for the bedtime process and how long for the wake-up process), ability to sync calendars. 
+
+
 ### Updated Video
+
+This new video showcases a "full cycle" of a user with this device. 
 
 
