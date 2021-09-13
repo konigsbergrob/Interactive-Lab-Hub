@@ -144,16 +144,24 @@ The feedback received for this device can be summarized by the following:
 
 Positive feedback
 > The physicality of the light lowering, as the night goes down, is a cool feature. 
+
 > As someone who tends to stay up because I don't realize how late it is, I definitely appreciate this device!
+
 > Not only does this device change the light environment around users, but reminds people to sleep in an immersive way
 
 Food for thought / Suggestions for change
 > Human schedules are complex, and simply reducing light may not work for those without a strict schedule. 
+
 > Bedtimes are variable, and so syncing with someone's calendar may be valuable.
+
 > There is a lack of clarity of when the lamp raises up after lowering at the end of the night.
+
 > With a lamp so close to the ground, users may trip over it if they awake in the middle of the night.
+
 > Is there any integration with the other lights in the house? What happens to those? 
+
 > Changing colors / reducing blue light specifically could be a good way to induce sleep.
+
 > Is there a snooze button? What is I struggle to wake-up. 
 
 ## Make it your own
@@ -170,8 +178,11 @@ Given the feedback received, the following changes will be implemented:
 2. We will introduce an app that allows users to set the bedtime and wake up time. Some of the key features include: 
     > Bedtime and wake-up can be dynamically set, even within a single cycle (e.g., it is 9:00pm, a user planned to go to bed at 10:00pm, but now will need to go to bed at 11:00pm. The user can go into the app and prolong bedtime an hour, and the device will adjust accordingly). 
     > This will help with the complexity of a user's schedule on a day to day basis. 
+    
     > Calendar integration will be possible (e.g., sync with Outlook calendar) as well. 
+    
     > For the wake-up functionality, there will be a built in "snooze" feature. Rather than a user clicking snooze in the morning, this will be proactive. So for example, a user will input 7:00 am as a wake-up time, but begin the wake-up process at 6:45am and have a "final wake-up allowed" at 7:15am. This is defined as the time interval. 
+    
     > If the user has any other "smart lightbulbs" in the house, this device can sync with those. Although they may not have a dimming feature, the app can turn off each of the additional lights across the dimming cycle (and the user can program this sequence). So for example, if a user is going to bed in 4 hours, 3 hours beforehand the kitchen light can turn off, 2 hours beforehand the dining room light can shut off, and so on. Given the sophistication, it is not reflected in the diagrams below, but we do plan this for future iterations potentially. 
 3. The light used in the lamp will have the functionality to include or exclude blue light. Therefore, at night time, blue light can be removed (something that has been showed to keep people awake at night). 
 4. The light can allow a user to change the hue (e.g., more of a yellow / warm light versus a white / brighter light). 
