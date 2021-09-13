@@ -176,11 +176,9 @@ Do last week’s assignment again, but this time:
 Given the feedback received, the following changes will be implemented: 
 1. The device will work not just in the evenings to help users fall asleep, but also in the morning to help users wake up. This creates a "whole cycle" and addresses the concerns about when the lamp will raise after the user goes to sleep. 
 2. We will introduce an app that allows users to set the bedtime and wake up time. Some of the key features include: 
-    > Bedtime and wake-up can be changed within a single cycle (e.g., if it is 9:00pm, and a user planned to go to bed at 10:00pm, but now  need to go to bed at 11:00pm, the user can go into the app and change the bedimte accordingly). 
-  
-    > This will help with the complexity of a user's schedule on a day to day basis. 
+    > Bedtime and wake-up can be changed within a single cycle (e.g., if it is 9:00pm, and a user planned to go to bed at 10:00pm, but now  need to go to bed at 11:00pm, the user can go into the app and change the bedimte accordingly). This will help with the complexity of a user's schedule on a day to day basis. 
     
-    > Calendar integration will be possible (e.g., sync with Outlook calendar) as well. 
+    > Calendar integration will be possible (e.g., sync with Outlook calendar). 
     
     > For the wake-up functionality, there will be a built in "snooze" feature. Rather than a user clicking snooze in the morning, this will be proactive. So for example, a user will input 7:00 am as a wake-up time, but begin the wake-up process at 6:45am and have a "final wake-up allowed" at 7:15am. This is defined as the time interval. 
     
