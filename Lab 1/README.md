@@ -47,11 +47,11 @@ F) [Record the interaction](#part-f-record)
 > Goals: The goal of each user, simply put, is to fall asleep. Sleep is very misunderstood, but we do know that in the modern world the use of lights and electronics have made people go to bed later and later, which is unhealthy. However, dimming lights can be a successful strategy to reduce the “idle time” of waiting in bed trying to fall asleep. 
 
 > Inspiration: Our lamp idea was inspired by sunflowers, their overall shape and movement based on light present. 
-<img src="./Sunflower.JPG">
+<img src="./Sunflower.JPG" width="500">
 
 \*\***Include a picture of your storyboard here**\*\*
 
-<img src="./Storyboard.JPG">
+<img src="./Storyboard.JPG" width="750">
 
 
 \*\***Summarize feedback you got here.**\*\*
@@ -91,16 +91,16 @@ Different feedback from ourselves and other peers include:
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-<img src="./1_Wizard.JPG">
-<img src="./2_Wizard.JPG">
-<img src="./4_Wizard.JPG">
-<img src="./5_Wizard.JPG">
+<img src="./1_Wizard.JPG" width="500">
+<img src="./2_Wizard.JPG" width="500">
+<img src="./4_Wizard.JPG" width="500">
+<img src="./5_Wizard.JPG" width="500">
 
 
 \*\***Show the follow-up work here.**\*\*
 
-<img src="./Wizard_1.GIF">
-<img src="./Wizard_2.GIF">
+<img src="./Wizard_1.GIF" width="500">
+<img src="./Wizard_2.GIF" width="500">
 
 
 ## Part E. Costume the device
@@ -198,13 +198,13 @@ We've created a new "storyboard" that shows the wake-up functionality of the dev
 As you can see below, as bedtime neard the light lowers physically, gets less bright, and informs the user of time until bedtime (with lower volume levels). 
 
 <img src="./Storyboard_New.jpg" width="750">
-<img src="./App_New.jpg" width="750">
+<img src="./App_New.jpg" width="500">
 
 ### Updated Device
 
 The new device can be found below. Also included is the sketch of the app we intend users to utilize for the scheduling of their bedtime and wake-up. The diagram of the device shows the ability to change hues for the light, the sound functionality included, and the lack of physical controls now on the device. The app shows that the user can set a bedtime and wake-up time, a time interval (how long for the bedtime process and how long for the wake-up process), ability to sync calendars. 
 
-<img src="./Device_New.JPG">
+<src="./Device_New.JPG">
 ### Updated Video
 
 This new video showcases a "full cycle" of a user with this device. 
