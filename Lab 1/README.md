@@ -202,7 +202,7 @@ As you can see below, as bedtime neard the light lowers physically, gets less br
 
 The new device can be found below. Also included is the sketch of the app we intend users to utilize for the scheduling of their bedtime and wake-up. The diagram of the device shows the ability to change hues for the light, the sound functionality included, and the lack of physical controls now on the device. The app shows that the user can set a bedtime and wake-up time, a time interval (how long for the bedtime process and how long for the wake-up process), ability to sync calendars. 
 
-<src="./Device_New.jpg">
+<img src="./Device_New.jpg">
 ### Updated Video
 
 This new video showcases a "full cycle" of a user with this device. 
