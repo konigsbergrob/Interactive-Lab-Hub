@@ -205,6 +205,8 @@ The new device can be found below. Also included is the sketch of the app we int
 <img src="./Device_New.jpg" width="700">
 ### Updated Video
 
-This new video showcases a "full cycle" of a user with this device. 
+This new video showcases the "wake-up timer" feature of the device. The link below shows the user being alerted 1 hour before wakeup (with low level light and sound alerting the user), 30 minutes before wakeup (with medium level light and sound alerting the user), and at wakeup (with high level light that blinks and sound alerting the user). 
+
+https://www.youtube.com/watch?v=zcFsXC-6AEg&feature=youtu.be
 
 
